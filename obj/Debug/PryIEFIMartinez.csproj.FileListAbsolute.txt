@@ -1,0 +1,125 @@
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe.config
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.pdb
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.AssemblyReference.cache
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmAgregarSocio.resources
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmInicio.resources
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSocios.resources
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.Properties.Resources.resources
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.GenerateResource.cache
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.exe
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.pdb
+D:\Escritorio\gym\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe.config
+D:\Escritorio\gym\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe
+D:\Escritorio\gym\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.pdb
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.AssemblyReference.cache
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmAgregarSocio.resources
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmInicio.resources
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSocios.resources
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.Properties.Resources.resources
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.GenerateResource.cache
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.CoreCompileInputs.cache
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.exe
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.pdb
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmBusquedaSocios.resources
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmClientesDeudores.resources
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoPorActividad.resources
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSociosPorBarrio.resources
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmBusquedaSocios.resources
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmClientesDeudores.resources
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoPorActividad.resources
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSociosPorBarrio.resources
+D:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmConsultaSocio.resources
+D:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmConsultaSocio.resources
+D:\Escritorio\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe.config
+D:\Escritorio\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe
+D:\Escritorio\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.pdb
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.AssemblyReference.cache
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmAgregarSocio.resources
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmBusquedaSocios.resources
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmClientesDeudores.resources
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmConsultaSocio.resources
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmInicio.resources
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoPorActividad.resources
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSocios.resources
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSociosPorBarrio.resources
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.Properties.Resources.resources
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.GenerateResource.cache
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.CoreCompileInputs.cache
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.exe
+D:\Escritorio\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.pdb
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe.config
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.pdb
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.AssemblyReference.cache
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.SuggestedBindingRedirects.cache
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmAgregarSocio.resources
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmBusquedaSocios.resources
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmClientesDeudores.resources
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmConsultaSocio.resources
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmInicio.resources
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoPorActividad.resources
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSocios.resources
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSociosPorBarrio.resources
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.Properties.Resources.resources
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.GenerateResource.cache
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.CoreCompileInputs.cache
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.exe
+E:\Escritorio\Nueva carpeta\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.pdb
+E:\Escritorio\gym\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe.config
+E:\Escritorio\gym\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe
+E:\Escritorio\gym\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.pdb
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.AssemblyReference.cache
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.SuggestedBindingRedirects.cache
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmAgregarSocio.resources
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmBusquedaSocios.resources
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmClientesDeudores.resources
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmConsultaSocio.resources
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmInicio.resources
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoPorActividad.resources
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSocios.resources
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSociosPorBarrio.resources
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.Properties.Resources.resources
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.GenerateResource.cache
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.CoreCompileInputs.cache
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.exe
+E:\Escritorio\gym\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.pdb
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe.config
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.pdb
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.AssemblyReference.cache
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmAgregarSocio.resources
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmBusquedaSocios.resources
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmClientesDeudores.resources
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmConsultaSocio.resources
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmInicio.resources
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoPorActividad.resources
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSocios.resources
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSociosPorBarrio.resources
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.Properties.Resources.resources
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.exe
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.pdb
+C:\Users\54351\Desktop\Skul\lab.Progrmacion II\IEFI LAB Y LOGICA\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmAcercaDelSistema.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe.config
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.exe
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\bin\Debug\PryIEFIMartinez.pdb
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.AssemblyReference.cache
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmAcercaDelSistema.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmAgregarSocio.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmBusquedaSocios.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmClientesDeudores.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmConsultaSocio.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmInicio.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoPorActividad.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSocios.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.FrmListadoSociosPorBarrio.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.Properties.Resources.resources
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.exe
+C:\Users\54351\Desktop\Nueva carpeta (2)\IEFI PROGRAMACION\PryIEFIMartinez\obj\Debug\PryIEFIMartinez.pdb
